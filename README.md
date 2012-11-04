@@ -6,7 +6,7 @@ The file named ``POV_Display.ino`` has the code for the Arduino board
 
 This code has been tested on Arduino Uno Rev 2 and as of June 11, 2012, it was still working.
 
-# Acknowledgment
+# Acknowledgments
 
 1. Construction: http://www.pyroelectro.com/projects/pyro_propeller_clock_pov/mechanical_hardware.html
 2. Programming and Logic: http://carlitoscontraptions.com/2007/08/arduino-pov-prototype-part-2/
