@@ -9,6 +9,7 @@ This code has been tested on Arduino Uno Rev 2 and as of June 11, 2012, it was s
 # Downloading the source code
 
 For users unfamiliar with `github`: You can download the source code as a zip file by clicking [here](https://github.com/karanjthakkar/Arduino-POV/archive/master.zip)
+
 For users who have used github before: You can simply fork the repository(if you intend to make changes and pull them to master) and/or clone it on your local machine
 
 # Acknowledgments
@@ -21,4 +22,4 @@ For users who have used github before: You can simply fork the repository(if you
 (See the [LICENSE](https://github.com/karanjthakkar/face-extraction/blob/master/LICENSE.txt) file)
 
 For any feedback, comment, advice, bugs, please contact me at:
-karanjthakkar (at) gmail (dot) com
+**karanjthakkar (at) gmail (dot) com**
