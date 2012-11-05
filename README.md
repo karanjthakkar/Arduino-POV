@@ -4,7 +4,7 @@ Please go through [this](http://karanjthakkar.wordpress.com/2012/06/11/arduino-c
 
 The file named ``POV_Display.ino`` has the code for the Arduino board
 
-This code has been tested on Arduino Uno Rev 2 and as of June 11, 2012, it was still working.
+This code has been tested on Arduino Uno Rev 2 and as of `June 11, 2012`, was still working.
 
 # Downloading the source code
 
