@@ -6,6 +6,11 @@ The file named ``POV_Display.ino`` has the code for the Arduino board
 
 This code has been tested on Arduino Uno Rev 2 and as of June 11, 2012, it was still working.
 
+# Downloading the source code
+
+For users unfamiliar with `github`: You can download the source code as a zip file by clicking [here](https://github.com/karanjthakkar/Arduino-POV/archive/master.zip)
+For users who have used github before: You can simply fork the repository(if you intend to make changes and pull them to master) and/or clone it on your local machine
+
 # Acknowledgments
 
 1. Construction: http://www.pyroelectro.com/projects/pyro_propeller_clock_pov/mechanical_hardware.html
