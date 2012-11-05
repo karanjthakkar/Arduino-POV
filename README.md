@@ -22,4 +22,4 @@ For users who have used github before: You can simply fork the repository(if you
 (See the [LICENSE](https://github.com/karanjthakkar/face-extraction/blob/master/LICENSE.txt) file)
 
 For any feedback, comment, advice, bugs, please contact me at:
-**karanjthakkar (at) gmail (dot) com**
+**karanjthakkar [at] gmail [dot] com**
