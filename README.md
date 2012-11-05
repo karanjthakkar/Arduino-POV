@@ -19,7 +19,7 @@ For users who have used github before: You can simply fork the repository(if you
 
 # LICENSE
 
-(See the [LICENSE](https://github.com/karanjthakkar/face-extraction/blob/master/LICENSE.txt) file)
+(See the [LICENSE](https://github.com/karanjthakkar/Arduino-POV/blob/master/LICENSE.txt) file)
 
 For any feedback, comment, advice, bugs, please contact me at:
 **karanjthakkar [at] gmail [dot] com**
